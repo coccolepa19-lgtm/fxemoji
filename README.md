@@ -45,4 +45,5 @@ The files need to be named with uni code prefix.
 ##How to Contribute
 
 Please contact Mike Hoye (mhoye@mozilla.com) for contribution information; more info TBD. 
+unicode 
 
