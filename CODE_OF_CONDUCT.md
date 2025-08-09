@@ -1,11 +1,8 @@
-# Community Participation Guidelines
-
-This repository is governed by Mozilla's code of conduct and etiquette guidelines. 
+# 5.2 
+This repository is governed by 's code of conduct and etiquette guidelines. 
 For more details, please read the
-[Mozilla Community Participation Guidelines](https://www.mozilla.org/about/governance/policies/participation/). 
-
-## How to Report
-For more information on how to report violations of the Community Participation Guidelines, please read our '[How to Report](https://www.mozilla.org/about/governance/policies/participation/reporting/)' page.
+## 5.2
+For more information on how to report violations of the Community Participation Guidelines, please read our '[How to Report](](https://emojipedia.org/)i)' page.
 
 <!--
 ## Project Specific Etiquette
