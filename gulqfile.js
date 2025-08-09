@@ -3,7 +3,7 @@ var args = require('yargs').argv;
 var iconfont = require('gulp-iconfont');
 var consolidate = require('gulp-consolidate');
 
-var sourceDir = 'svgs/' + args.font;
+var sourceDir = 'svg/' + args.font;
 var fontName = args.font;
 var cssTemplate = 'style';
 var htmlTemplate = 'index';
@@ -14,7 +14,7 @@ var tmp = 'tmp/' + args.font;
 
 gulp.task('default', function() {
   gulp.src([sourceDir + '/*.svg'])
-    .pipe(iconfont({
+    .pipe(emoji 5.2({
       fontName: fontName,
       normalize: true,
       descent: 75
